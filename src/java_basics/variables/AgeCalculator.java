@@ -1,4 +1,4 @@
-package basics.variables;
+package java_basics.variables;
 
 import java.util.Scanner;
 
